@@ -1,0 +1,13 @@
+[package]
+name = "glub"
+version = "0.1.0"
+authors = ["GLUB Language Team"]
+edition = "2021"
+rust-version = "1.56"
+description = "A general-purpose, easy-to-use scripting language"
+documentation = "https://docs.rs/glub"
+readme = "README.md"
+repository = "https://github.com/interrealm/glub"
+license  = "MIT OR Apache-2.0"
+keywords = ["scripting", "interpreter"]
+categories = ["parser-implementations"]
